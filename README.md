@@ -3,8 +3,10 @@ This Project is used to extract the web content of an Coding platform of a parti
 * Open a Command Terminal and run this python script.</br>
   > * python main.py
 * After this you will get a window like this-
-[!Image of command prompt](
+![image of command prompt](cmd_1.png)
 * Enter Question Id.</br>
+![image of command prompt](cmd_2.png)
 * Enter User name.</br>
-* if that user is done with that que you will get YES as an ans and NO otherwise.
+![image of command prompt](cmd_3.png)
+* If that user is done with that que you will get YES as an ans and NO otherwise.
 
